@@ -156,8 +156,8 @@
             <div class = "foldhead-container">
                 <h1 class="font-italic">It's time you learned <br> about PROFILES RH</h1>
                 <p>Tired of being shaunted from pillar to post when you want help with cladding.</p>
-                <a id="btn-products-request-quote" class="btn btn-request-quote"><i class="fa fa-commenting" aria-hidden="true"></i> Request a Quote</a>
-                <a id="btn-products-list" class="btn btn-green btn-list-of-products"><i class="fa fa-th" aria-hidden="true"></i> List of Products</a>
+                <a data-toggle="modal" data-target="#request-quote-modal" class="btn btn-request-quote"><i class="fa fa-commenting" aria-hidden="true"></i> Request a Quote</a>
+                <a href="products.php#cladding" class="btn btn-green btn-list-of-products"><i class="fa fa-th" aria-hidden="true"></i> List of Products</a>
             </div>
           </div> 
         </div>

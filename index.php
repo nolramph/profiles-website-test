@@ -20,7 +20,7 @@
             <div class = "foldhead-container">
                 <h1 class="font-italic">We Got You Covered</h1>
                 <p>The fastest growing, pre-engineered building systems and components manufacturer in United Arab Emirates, Our <a class="anchor-content" href="products.php">products</a> are the best you can find in the United Arab Emirates market such as Profile Sheets, Panels, Cold Storage, Refrigerated Trucks, Skid Mounted Containers and Various Structural Members thriving not only in the United Arab Emirates market, but also in the Middle East. <a class="anchor-content" href="aboutus.php">Learn more about us</a></p>
-                <a id="btn-index-request-quote" class="btn btn-request-quote btn-peach"><i class="fa fa-file-alt"></i>Request a Quote</a>
+                <a id="btn-index-request-quote" data-toggle="modal" data-target="#request-quote-modal" class="btn btn-request-quote btn-peach"><i class="fa fa-file-alt"></i>Request a Quote</a>
             </div>
           </div>
           <div class = "col-md-12">

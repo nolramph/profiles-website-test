@@ -29,15 +29,11 @@ $('a.nav-link').removeClass('active');
 if($(window).width() < 992){
   $('.dropdown a.dropdown-toggle').on("click", function(e){
     $(this).next('ul').toggle();
+    $(this).toggleClass('actived');
     e.stopPropagation();
     e.preventDefault(); 
   });
 }
-
-// $('html,body').animate({
-//   scrollTop: $(window.location.hash).offset().top
-// });
-
 
 
 })(jQuery);
